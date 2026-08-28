@@ -1,0 +1,12 @@
+{
+  "name": "tisuleiro",
+  "version": "1.0.2",
+  "description": "Bot Discord Tisuleiro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
